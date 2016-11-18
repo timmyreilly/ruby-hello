@@ -1,1 +1,1 @@
-run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hello world! Ruby on Docker on WebApps!']] }
+run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hello World! Welcome to Ruby on Docker in an Azure App Service']] }
