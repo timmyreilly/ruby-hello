@@ -8,3 +8,5 @@ super simple ruby docker hello world
 - `docker logs $ID`
 - `docker stop $ID`
 - `docker rm $ID`
+
+The docker image lives here: https://hub.docker.com/r/timmyreilly/ruby-hello/ 
