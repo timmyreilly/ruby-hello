@@ -1,1 +1,1 @@
-run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Holy c*** Ruby from docker works!']] }
+run Proc.new { |env| ['200', {'Content-Type' => 'text/html'}, ['Hello world! Ruby from docker works!']] }
